@@ -48,12 +48,12 @@ source_suffix = ['.rst', '.md']
 master_doc = 'index'
 
 # General information about the project.
-project = u'Р‘Р“Рџ РљРћРЎРњРћРЎ <small>Р±Р°Р·РѕРІР°СЏ РіРµРѕРёРЅС„РѕСЂРјР°С†РёРѕРЅРЅР°СЏ РїР»Р°С‚С„РѕСЂРјР°</small>'
-author = u'РћРђРћ "РќРџРљ "Р Р•РљРћР”""'
+project = u'Программа Лукойл-Коми'
+author = u'ГИС - центр ПГНИУ'
 copyright = author
 doc_name='documentation'
 
-title = u'Р”РѕРєСѓРјРµРЅС‚Р°С†РёСЏ Р‘Р“Рџ РљРћРЎРњРћРЎ'
+title = u'Документация'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
