@@ -51,7 +51,7 @@ master_doc = 'index'
 project = u'Программа Лукойл-Коми'
 author = u'ГИС - центр ПГНИУ'
 copyright = author
-doc_name='documentation'
+doc_name = 'documentation'
 
 title = u'Документация'
 
@@ -213,27 +213,27 @@ htmlhelp_basename = doc_name
 
 latex_elements = {
     'release': '0.4',
-    'releasename': u'РІРµСЂСЃРёСЏ', #No release name
+    'releasename': u'РІРµСЂСЃРёСЏ',  # No release name
     'maketitle': '',  # No Title Page
-# The paper size ('letterpaper' or 'a4paper').
-#'papersize': 'letterpaper',
+    # The paper size ('letterpaper' or 'a4paper').
+    #'papersize': 'letterpaper',
 
-# The font size ('10pt', '11pt' or '12pt').
-#'pointsize': '10pt',
+    # The font size ('10pt', '11pt' or '12pt').
+    #'pointsize': '10pt',
 
-# Additional stuff for the LaTeX preamble.
-#'preamble': '',
+    # Additional stuff for the LaTeX preamble.
+    #'preamble': '',
 
-# Latex figure (float) alignment
-#'figure_align': 'htbp',
+    # Latex figure (float) alignment
+    #'figure_align': 'htbp',
 }
 
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  (master_doc, 'documentation.tex', title,
-   author, 'manual'),
+    (master_doc, 'documentation.tex', title,
+     author, 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -276,9 +276,9 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  (master_doc, doc_name, title,
-   author, '', '',
-   'Miscellaneous'),
+    (master_doc, doc_name, title,
+     author, '', '',
+     'Miscellaneous'),
 ]
 
 # Documents to append as an appendix to all manuals.
