@@ -6,7 +6,7 @@
    :maxdepth: 3
    :numbered:
 
-   1_information
+   README
    2_glossary
    3_start
    4_interface
