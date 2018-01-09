@@ -1,10 +1,13 @@
+.. meta::
+   :http-equiv=Content-Type: text/html; charset=utf-8
+
 Здравствуйте. 
 
 .. toctree::
    :maxdepth: 3
    :numbered:
 
-   1_information
+   README
    2_glossary
    3_start
    4_interface
@@ -16,4 +19,4 @@
    10_3D mode
    11_shutdown
 
-.. note:: *РџРѕСЃР»РµРґРЅСЏСЏ РїСЂР°РІРєР°:* |today|
+.. note:: |today|
