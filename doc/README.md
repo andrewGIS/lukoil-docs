@@ -5,7 +5,6 @@ Test 2
 
 2. Tip
 
-+++ 2. Tips
 
 test link to (1_information.rst)
 
