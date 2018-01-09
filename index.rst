@@ -1,4 +1,12 @@
 Документация по программме Lukoil
 ---------
 
-1. Общая настройка программы .._ссылка:1_information.rst
+.. toctree::
+    :maxdepth: 3
+    :numbered:
+ 
+    1_information
+    2_glossary
+
+
+.. figure::_img/mainWindow.png
