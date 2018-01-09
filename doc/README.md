@@ -1,5 +1,6 @@
 Test 1 
 ## Test 1
+Test 2
 1. Tip
 
 2. Tip
@@ -10,4 +11,4 @@ test link to (1_information.rst)
 
 
 
-![cat](img/mainWindow.png) 
+![cat](../img/mainWindow.png) 
