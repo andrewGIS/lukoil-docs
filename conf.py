@@ -1,6 +1,6 @@
 -*- coding: utf-8 -*-
 #
-# ololo documentation build configuration file, created by
+# Lukoil documentation build configuration file, created by
 # sphinx-quickstart on Mon Nov  9 17:43:38 2015.
 #
 # This file is execfile()d with the current directory set to its
