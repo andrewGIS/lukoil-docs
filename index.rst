@@ -12,5 +12,6 @@
    :numbered:
 
    1_installation
-.. Конец
+
+
    
