@@ -9,12 +9,16 @@ Welcome to Lukoil_docs's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   :numbered:
+
+   1_installation
 
 
 
 Indices and tables
 ==================
 
+* :ref:`genindex`
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
