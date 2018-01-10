@@ -1,4 +1,4 @@
--*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 #
 # Lukoil documentation build configuration file, created by
 # sphinx-quickstart on Mon Nov  9 17:43:38 2015.
