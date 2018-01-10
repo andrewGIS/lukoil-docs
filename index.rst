@@ -10,7 +10,6 @@ Welcome to Lukoil_docs's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-.. image:: path
 
 
 Indices and tables
