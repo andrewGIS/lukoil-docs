@@ -10,6 +10,6 @@
    :numbered:
 
    1_installation
-   2_customizing
+   2_customize
 
 .. note:: *Дата:* |today|
