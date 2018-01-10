@@ -38,8 +38,8 @@ templates_path = ['_templates']
 
 # The suffix(es) of source filenames.
 # You can specify multiple suffix as a list of string:
-source_suffix = ['.rst', '.md']
-# source_suffix = '.rst'
+# source_suffix = ['.rst', '.md']
+source_suffix = '.rst'
 
 # The encoding of source files.
 #source_encoding = 'utf-8-sig'
@@ -144,7 +144,7 @@ html_theme_options = {
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['_static']
+html_static_path = ['img']
 
 # Add any extra paths that contain custom files (such as robots.txt or
 # .htaccess) here, relative to this directory. These files are copied
@@ -213,7 +213,7 @@ htmlhelp_basename = doc_name
 
 latex_elements = {
     'release': '0.4',
-    'releasename': u'РІРµСЂСЃРёСЏ',  # No release name
+    'releasename': u'11',  # No release name
     'maketitle': '',  # No Title Page
     # The paper size ('letterpaper' or 'a4paper').
     #'papersize': 'letterpaper',
@@ -340,7 +340,7 @@ epub_copyright = copyright
 #epub_post_files = []
 
 # A list of files that should not be packed into the epub file.
-epub_exclude_files = ['search.html']
+epub_exclude_files = []
 
 # The depth of the table of contents in toc.ncx.
 #epub_tocdepth = 3
@@ -363,4 +363,4 @@ epub_exclude_files = ['search.html']
 # If false, no index is generated.
 #epub_use_index = True
 
-html_scaled_image_link = False
+# html_scaled_image_link = False
