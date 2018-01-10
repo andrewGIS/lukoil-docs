@@ -3,22 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Lukoil_docs's documentation!
-=======================================
+Добро пожаловать в руководство пользователя Lukoil Komi!
+========================================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
    :numbered:
 
    1_installation
+   2_customizing
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. note:: *Дата:* |today|
