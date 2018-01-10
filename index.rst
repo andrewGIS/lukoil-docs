@@ -7,3 +7,10 @@
 
 Это первый раздел
    
+.. toctree::
+   :maxdepth: 3
+   :numbered:
+
+   1_installation
+.. Конец
+   
