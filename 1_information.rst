@@ -7,7 +7,17 @@
 
 В целом программа физически представляет собой папку с различными модулями
 
-.. figure:: img/1.png
+.. figure:: img/folder.png
+
+Функционал программы содержится в двух основных панелях 
+    1. Панель меню - **Инструменты**
+        .. figure:: img/menuPanel.png
+            :align: center
+    2. Контекстное меню - **Лукойл**
+        .. figure:: img/contextMenu.png
+            :scale: 50 %
+            :align: center
+
 
 
 

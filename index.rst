@@ -9,7 +9,7 @@
 .. toctree::
    :numbered:
 
-   1_installation
-   2_customize
-
-.. note:: *Дата:* |today|
+   1_information
+   2_installation
+   3_working
+   
