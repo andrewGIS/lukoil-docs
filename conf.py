@@ -149,7 +149,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'lukoil_docs', u'Lukoil_docs Documentation',
+    (master_doc, 'Lukoil documnetation', u'Lukoil_docs Documentation',
      [author], 1)
 ]
 
@@ -164,6 +164,4 @@ texinfo_documents = [
      author, 'Lukoil_docs', 'One line description of project.',
      'Miscellaneous'),
 ]
-
-
 
