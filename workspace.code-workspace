@@ -5,6 +5,7 @@
 		}
 	],
 	"settings": {
-		"restructuredtext.confPath": "d:\\Work\\Lukoil\\projects_vb\\LukoilDocs\\lukoil_docs"
+		"restructuredtext.confPath": "d:\\Work\\Lukoil\\projects_vb\\LukoilDocs\\lukoil_docs",
+		"restructuredtext.workspaceRoot": "d:\\Work\\Lukoil\\projects_vb\\LukoilDocs"
 	}
 }
