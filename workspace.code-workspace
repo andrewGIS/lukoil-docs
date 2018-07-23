@@ -1,11 +1,11 @@
 {
 	"folders": [
 		{
-			"path": "D:\\Work\\Lukoil\\projects_vb\\LukoilDocs"
+			"path": "D:\\Work\\_not_ended_tasks\\Lukoil\\projects_vb\\LukoilDocs\\lukoil_docs"
 		}
 	],
 	"settings": {
-		"restructuredtext.confPath": "d:\\Work\\Lukoil\\projects_vb\\LukoilDocs\\lukoil_docs",
-		"restructuredtext.workspaceRoot": "d:\\Work\\Lukoil\\projects_vb\\LukoilDocs"
+		"restructuredtext.confPath": "D:\\Work\\_not_ended_tasks\\Lukoil\\projects_vb\\LukoilDocs\\lukoil_docs",
+		"restructuredtext.workspaceRoot": "D:\\Work\\_not_ended_tasks\\Lukoil\\projects_vb\\LukoilDocs\\lukoil_docs"
 	}
 }
